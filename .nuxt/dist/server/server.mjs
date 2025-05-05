@@ -1,0 +1,1 @@
+export { default } from "file:///Users/tahar/Documents/VibeCode/portfol/portfolio1/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

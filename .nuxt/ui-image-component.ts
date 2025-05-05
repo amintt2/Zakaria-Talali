@@ -1,0 +1,1 @@
+export { default } from "/Users/tahar/Documents/VibeCode/portfol/portfolio1/node_modules/@nuxt/image/dist/runtime/components/NuxtImg.vue"
